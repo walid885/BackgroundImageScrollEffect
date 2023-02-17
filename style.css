@@ -10,6 +10,7 @@ body{
     background-position: center;
     background-attachment: fixed;
     background-size: 160%;
+    background-image: no-repeat;
 }
 .container{
     padding: 100px;
